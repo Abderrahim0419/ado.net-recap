@@ -1,0 +1,10 @@
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\bin\Debug\NavigationAdo.net.exe.config
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\bin\Debug\NavigationAdo.net.exe
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\bin\Debug\NavigationAdo.net.pdb
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\obj\Debug\NavigationAdo.net.csprojAssemblyReference.cache
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\obj\Debug\NavigationAdo.net.Form1.resources
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\obj\Debug\NavigationAdo.net.Properties.Resources.resources
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\obj\Debug\NavigationAdo.net.csproj.GenerateResource.cache
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\obj\Debug\NavigationAdo.net.csproj.CoreCompileInputs.cache
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\obj\Debug\NavigationAdo.net.exe
+C:\Users\ayman\source\repos\NavigationAdo.net\NavigationAdo.net\obj\Debug\NavigationAdo.net.pdb
